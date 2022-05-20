@@ -1,7 +1,7 @@
 ### 💻 Oiii eu sou a Carla Campos, Estudante de Front-End, programação e tecnologia!
 
 - 🌱 I’m currently learning Front-End
-- 📫 How to reach me: https://instagram.com/carla.g.campos
+- 📫 How to reach me: https://instagram.com/carlacamposdev
 - 😄 Pronouns: Ela/Dela
 
 <div align="center">
@@ -23,10 +23,8 @@
   ##
  
 <div>
-  <a href="https://instagram.com/carla.g.campos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/carlacamposdev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/carlagcampos" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/pDbY76q8Qf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  
   <a href = "mailto:carla.g.s.campos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carla-campos-571a49141" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-![ Animação de lanche ](https://github.com/CarlagCampos/carlagcampos/blob/output/github-contribution-grid-snake.svg)  
