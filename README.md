@@ -29,4 +29,4 @@
   <a href = "mailto:carla.g.s.campos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carla-campos-571a49141" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-![Snack animation](https://github.com/carlagcampos/carlagcampos/blob/output/github-contribution-grid-snake.svg)
+![ Animação de lanche ](https://github.com/CarlagCampos/carlagcampos/blob/output/github-contribution-grid-snake.svg)  
