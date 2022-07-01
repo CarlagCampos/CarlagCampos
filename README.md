@@ -4,7 +4,6 @@
 - 📫 How to reach me: https://instagram.com/carlacamposdev
 - 😄 Pronouns: Ela/Dela
 
-
   <div align="center">
   <a href="https://github.com/CarlagCampos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlagCampos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -27,6 +26,8 @@
  	<a href="https://www.tiktok.com/@carlagcampos?is_from_webapp=1&sender_device=pc" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
   <a href="https://www.twitch.tv/carlagcampos" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>  
   <a href = "mailto:carla.g.s.campos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank"></a>
-  <a href="https://www.linkedin.com/in/carla-campos-571a49141" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/Carla-g-Campos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 ![ Animação de lanche ](https://github.com/CarlagCampos/carlagcampos/blob/output/github-contribution-grid-snake.svg)      
+
+</div>  
